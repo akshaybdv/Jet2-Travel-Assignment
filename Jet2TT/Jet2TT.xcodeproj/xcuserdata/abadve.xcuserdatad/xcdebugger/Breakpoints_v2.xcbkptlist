@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2714145-DDC5-496D-957F-07B0BDF4E295"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B7A6706-4395-45C5-BCCA-9C6170AA11D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Jet2TT/Other/Extensions/ImageViewExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "loadImageFromServer(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B7A6706-4395-45C5-BCCA-9C6170AA11D2 - b93d67a34f21b3ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Jet2TT):__C.UIImageView.loadImageFromServer(url: Swift.String) -&gt; ()"
+                  moduleName = "Jet2TT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abadve/Documents/Jet2TT/Jet2TT/Other/Extensions/ImageViewExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "389">
+               </Location>
+               <Location
+                  uuid = "4B7A6706-4395-45C5-BCCA-9C6170AA11D2 - f94acb5884afd319"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in (extension in Jet2TT):__C.UIImageView.loadImageFromServer(url: Swift.String) -&gt; ()"
+                  moduleName = "Jet2TT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abadve/Documents/Jet2TT/Jet2TT/Other/Extensions/ImageViewExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "293">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
